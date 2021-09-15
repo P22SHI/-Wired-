@@ -1,0 +1,11 @@
+# dependencies
+node_modules
+
+# eslint
+.eslintcache
+
+# build files
+build
+
+# vscode settings
+.vscode
